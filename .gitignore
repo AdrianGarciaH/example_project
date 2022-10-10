@@ -3,6 +3,11 @@ __pycache__/
 *.py[cod]
 *$py.class
 
+#This is specific to macs 
+.DS_Store
+#This prevents any csv files from being added to the repo
+*.csv 
+
 # C extensions
 *.so
 
